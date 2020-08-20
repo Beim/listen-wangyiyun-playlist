@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+
+bak/
+data/
+*.log
+*playlist_info
+musicbox/
